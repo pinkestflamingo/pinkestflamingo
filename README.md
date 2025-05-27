@@ -5,8 +5,6 @@ I am **Pink Flamingo**, an 18-year-old **software developer, reverse engineer, a
 *"The important thing is not to stop questioning. Curiosity has its own reason for existing."*  
 — Albert Einstein  
 
-I used to be that one kid in the neighborhood that would never leave his room and just sit in his room staring at the computer screen for hours. It is thanks to me being that introvert kid that I possess the knowledge I do. 
-
 ## Location  
 📍 Gothenburg, Sweden  
 
