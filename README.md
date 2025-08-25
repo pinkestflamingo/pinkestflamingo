@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## About Me  
-I am **Pink Flamingo**, an 18-year-old **software developer, reverse engineer, and web developer**. I have an insatiable curiosity for technology and a relentless drive to **understand the inner workings of software**.  
+I am **Pink Flamingo**, an 19-year-old **software developer, reverse engineer, and web developer**. I have an insatiable curiosity for technology and a relentless drive to **understand the inner workings of software**.  
 
 *"The important thing is not to stop questioning. Curiosity has its own reason for existing."*  
 — Albert Einstein  
